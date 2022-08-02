@@ -7,12 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HOLA MUNDO</h1>
-    <form action="" method="post">
-        <label for="h1">5to compu</label>
-        <input type="text">
-
-
-    </form>
+    <h1>PÁGINA DE VENTAS</h1>
 </body>
 </html>
